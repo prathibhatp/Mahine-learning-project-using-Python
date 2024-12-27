@@ -1,5 +1,6 @@
 # Mahine-learning-project-using-Python
-Online Payment Fraud detection 
+Online Payment Fraud detection,
+
 Conducted in-depth analysis of large data sets, project leverages machine 
 learning algorithms to scrutinize transactional data and pinpoint irregularities 
 indicative of potential fraudulent behavior. Through the analysis of various 
