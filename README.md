@@ -1,9 +1,4 @@
 # Mahine-learning-project-using-Python
 Online Payment Fraud detection
 
-Conducted in-depth analysis of large data sets, project leverages machine 
-learning algorithms to scrutinize transactional data and pinpoint irregularities 
-indicative of potential fraudulent behavior. Through the analysis of various 
-features such as transaction amount frequency, location and user behavior 
-patterns, the system can accurately identify and flag suspicious transactions in 
-real-time
+Developed a machine learning model to identify and prevent fraudulent transactions in online payment systems. The project utilized Python libraries such as scikit-learn, Seaborn and pandas to process transaction data and apply algorithms like Logistic Regression, Decision Tree and SVC for classification. The system achieved high accuracy in detecting suspicious activity, enhancing security for online payment platforms. Key components included data preprocessing, feature engineering, model training, and evaluation.
